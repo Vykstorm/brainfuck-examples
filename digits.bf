@@ -1,5 +1,6 @@
 
 
-Shows all digits
+Shows all digits separated with new lines
 ++++++++++[>++++<-] ++++[>++<-] 0
-++++++++++[>.+>.>.<<<-] show the digits
+>>++++++++++<< line break
+++++++++++[>.+>.<<-] show the digits
